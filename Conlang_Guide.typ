@@ -94,6 +94,8 @@ Calutan is romanized phonetically. This guide uses the romanization.
 
 Gusabaalhandde is a co-official language of *Maize*.
 
+#pagebreak()
+
 = Kośtsiśtsi
 
 Kośtstiśtsi is the official language of *Dróstsiśtsi*.
