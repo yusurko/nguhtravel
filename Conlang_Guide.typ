@@ -146,10 +146,12 @@ It is an evolution of *Ñuwîn*.
   [fricative],
   [], [f], [θ <th>], [s], [ʃ <sh>], [], [x, ɣ <gy>], [h], 
   [lateral approximant],
-  [], [], [], [l], [], [], [], [], 
+  [], [], [], [l], [], [], [ʟ], [], 
   [tap / flap], 
   [], [], [], [ɾ <r>], [], [], [], [], 
 )
+
+The letter "v" is rendered as "w", and also "u" before a vowel, unless it's before a consonant in the same syllabe.
 
 === Vowels
 
@@ -298,10 +300,9 @@ Some verbs merge the auxiliary verbs with the main verb, and where perfectivenes
   [femithlelab], [gomthelab], [ithelab],
 )
 
-
 === Other Stuff
 
-Reduplication of the last syllabe is using as intensifier ("very")
+Reduplication of the last syllabe is using as intensifier ("very").
 
 == Conditionals
 
